@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 17 15:46:08 2021
-
-@author: hp
-"""
-
 n = int(input()) 
 line = []
 

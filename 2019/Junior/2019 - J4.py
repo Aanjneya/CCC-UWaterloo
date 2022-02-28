@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 17 17:11:48 2021
-
-@author: hp
-"""
-
 original = [[1, 2],[3, 4]]
 
 flips = list(input())

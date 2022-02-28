@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 18 01:10:19 2021
-
-@author: hp
-"""
-
 total = int(input())
 total_1 = []
 m = int(input())
@@ -33,5 +26,3 @@ for a in range(m):
 
 
 print(total_1)  
-    
-     

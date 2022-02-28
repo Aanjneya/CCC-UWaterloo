@@ -1,5 +1,3 @@
-#@author: Aanjneya
-
 n = int(input())
 name, bid = [],[]
 for i in range(n):

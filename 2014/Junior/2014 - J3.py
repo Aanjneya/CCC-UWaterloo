@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 18 00:45:10 2021
-
-@author: hp
-"""
 times = int(input())
 
 a, d =[],[]
